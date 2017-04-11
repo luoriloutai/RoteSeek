@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<File>
+  <Default>
+    <BackColor R="255" G="255" B="255">
+    </BackColor>
+    <ForeColor R="0" G="0" B="0">
+    </ForeColor>
+    <Font family="宋体" size="10.5">
+    </Font>
+    <SelectionIndent left="20" right="20">
+    </SelectionIndent>
+  </Default>
+  <User>
+    <BackColor R="255" G="255" B="255">
+    </BackColor>
+    <ForeColor R="0" G="0" B="0">
+    </ForeColor>
+    <Font family="微软雅黑" size="10.5">
+    </Font>
+    <SelectionIndent left="40" right="40">
+    </SelectionIndent>
+  </User>
+</File>
